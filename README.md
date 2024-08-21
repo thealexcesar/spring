@@ -66,7 +66,7 @@ This repository contains a Spring Boot project with a detailed syllabus covering
 - [Swagger OpenAPI](https://swagger.io/)
 
 ## Repository Information
-This repository is part of [T-Academy](https://github.com/your-username/T-Academy), a central repository dedicated to educational development with various modules and tutorials.
+This repository is part of [T-Academy](https://github.com/thealexcesar/T-Academy), a central repository dedicated to educational development with various modules and tutorials.
 
 ## Author
-This project was developed by [Your Name](https://github.com/your-username) as part of the T-Academy curriculum.
+This project was developed by [Alex Cesar](https://github.com/thealexcesar) as part of the T-Academy curriculum.
